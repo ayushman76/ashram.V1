@@ -156,4 +156,12 @@
 		display:none;
 	}
 
+	
+}
+
+@media(max-width:767px){
+	.course-main{
+		display: flex;
+		flex-wrap: wrap;
+	}
 }

@@ -120,7 +120,12 @@
 								<i class="far fa-arrow-alt-circle-right"></i>
 								 
 							</a>
+							<a  href="training.php" type="button" class="btn btn-dark shadow btn-lg mt-2 btn-outline">							
+								Get Training 
+								<i class="far fa-arrow-alt-circle-right"></i>	 
+							</a>
 							
+
 							
 						</div>
 					</div>
@@ -390,7 +395,7 @@
 			</div>
 		</article>
 		
-		<article class="bg-light p-2 mt-3 mb-5" >
+		<!-- <article class="bg-light p-2 mt-3 mb-5" >
 			<div class="container">
 				<div class="col-md-12">
 					<div class="list-wrapper justify-content-center p-2">
@@ -474,9 +479,9 @@
 				</div>
 			</div>
 		</article>
+		 -->
 		
-		
-		<article>
+		<!-- <article>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
@@ -496,7 +501,7 @@
 									</div>
 								</div>
 							</div>
-							<!--card-->
+							
 							<div class="card">
 								<div class="card-header">
 									<a href="#carditem02" class="card-link text-muted text-decoration-none" data-toggle="collapse">
@@ -511,7 +516,7 @@
 									</div>
 								</div>
 							</div>
-							<!--card-->
+							
 							<div class="card">
 								<div class="card-header">
 									<a href="#carditem03" class="card-link text-muted text-decoration-none" data-toggle="collapse">
@@ -526,10 +531,10 @@
 									</div>
 								</div>
 							</div>
-							<!--card-->
+							
 						</div>
 					</div>
-					<!--col-md-6-->
+					
 					<div class="col-md-6">
 						<div class="p-1">
 							<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehGAoOLI9CUxtRLcfTHy_Xkk8H3w5LkJzqH-G2ss7J1zTGfg/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -539,7 +544,9 @@
 			</div>
 		</article>
 		
-		
+		 -->
+
+
 		<div class="p-3 mb-4">
 			<ul class="pagination justify-content-center">
 				<li class="page-item">

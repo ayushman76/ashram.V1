@@ -85,6 +85,11 @@
 			-moz-object-fit:cover;
        object-fit: cover;
 }
+.course-img{
+    height: 170px;
+    object-fit: cover;
+    width: 100%;
+}
 .color01 {
     position: absolute;
     top: 50px;
@@ -95,16 +100,28 @@
     position: relative;
     margin: 10px 10px;
 }
-
-#mynewpro>li>a{
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    width: 83%;
-}
 iframe{
 	overflow:hidden;
 }
+
+.course-deatils{
+    border: 1px solid gainsboro;
+    padding: 10px 5px;
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+    background: #8080801a;
+}
+.roundedV1{
+    border-top-left-radius: 16px !important;
+    border-top-right-radius: 16px !important;
+}
+.course-deatils>.title{
+    font-weight: bold;
+}.course-deatils>span{
+    margin-top: -25px;
+    left: 0;
+}
+
 .color02 {
     position: absolute;
     bottom: 50px;
@@ -139,5 +156,3 @@ iframe{
     top:70px;
     left:0
 }
-
-
